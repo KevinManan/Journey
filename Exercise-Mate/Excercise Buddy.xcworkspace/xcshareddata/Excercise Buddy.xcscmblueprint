@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C62719E3C1269B7D86AC6A16C322D449DBD980CA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C62719E3C1269B7D86AC6A16C322D449DBD980CA" : 9223372036854775807,
+    "166E1E1548F58A8CF854E0C104A8431ED9B1E501" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E80BEE56-3F94-49DA-B7D4-077D0C410C2D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C62719E3C1269B7D86AC6A16C322D449DBD980CA" : "Exercise-Mate\/",
+    "166E1E1548F58A8CF854E0C104A8431ED9B1E501" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Excercise Buddy",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Excercise Buddy.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/KevinManan\/Journey",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "166E1E1548F58A8CF854E0C104A8431ED9B1E501"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/StefanFrancisco\/Exercise-Mate",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C62719E3C1269B7D86AC6A16C322D449DBD980CA"
+    }
+  ]
+}
